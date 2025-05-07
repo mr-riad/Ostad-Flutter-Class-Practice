@@ -25,11 +25,11 @@ class _M2_Class2State extends State<M2_Class2> {
           ),
           Expanded(
             flex: 3,
-            child: Container( width: 100, color: Colors.red),
+            child: Container( height:300, width: 300, color: Colors.red),
           ),
           Expanded(
             flex: 2,
-            child: Container( width: 100, color: Colors.black),
+            child: Container( height:300, width: 300, color: Colors.black),
           ),
 
 
